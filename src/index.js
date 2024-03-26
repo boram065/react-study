@@ -10,4 +10,8 @@
 // import './component-intermediate/state-study-1';
 // import './component-intermediate/state-study-2';
 // import './component-intermediate/state-study-3';
-import './test/Quiz';
+// import './test/Quiz';
+// import './component-intermediate/state-study-with-inner-object';
+// import './component-intermediate/counter-with-hook-caveat';
+// import './js-study/immutable-list-manipulation';
+import './component-intermediate/manipulate-list';
